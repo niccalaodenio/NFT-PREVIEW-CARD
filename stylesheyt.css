@@ -52,6 +52,7 @@ body{
 }
 img:hover + .hide{
     display: block;
+    cursor: pointer;
 }
 
 h3{
