@@ -6,7 +6,7 @@
     font-family: 'Outfit', sans-serif;
 }
 body{
-    width: 1440px;
+    width: 216%;
     height: 900px;
     background-color:hsl(217, 54%, 11%) ;
     display: grid;
